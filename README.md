@@ -24,7 +24,7 @@ A web based Food Ordering System developed using HTML, CSS, JavaScript, PHP, and
 5. Open **phpMyAdmin** and create a database named `food_ordering_system`.
 6. Import the `food_ordering_system.sql` file into the database.
 7. Open your browser and visit:
-8. http://localhost/index.login/online-food-ordering-system/
+8. http://localhost/food-ordering-system/login.php
 
 ## Author
 Shravya M K
